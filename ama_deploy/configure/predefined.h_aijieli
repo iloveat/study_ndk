@@ -1,0 +1,12 @@
+#include <string>
+
+using namespace std;
+
+
+const std::string global_str_turing_package_name = "com.ijourney.xiaoai";
+
+const std::string global_str_turing_apikey = "566b01882da3436d95c032df5248be75";
+
+const std::string global_str_turing_keystore_sha1 = "91:6F:1C:45:27:DB:68:9C:2A:6E:46:9C:B1:10:A6:AD:1C:1F:FE:56";
+
+

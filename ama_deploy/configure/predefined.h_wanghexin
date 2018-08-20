@@ -1,0 +1,12 @@
+#include <string>
+
+using namespace std;
+
+
+const std::string global_str_turing_package_name = "com.hampoo.turingvoiceservice";
+
+const std::string global_str_turing_apikey = "93645ab270c744cdab1131cd5d219e29";
+
+const std::string global_str_turing_keystore_sha1 = "C0:C2:2E:48:B1:88:5E:1A:77:59:A8:E7:27:BE:1D:7D:E3:6D:6A:3C";
+
+

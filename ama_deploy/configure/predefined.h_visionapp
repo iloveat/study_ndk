@@ -1,0 +1,12 @@
+#include <string>
+
+using namespace std;
+
+
+const std::string global_str_turing_package_name = "com.turing.visionapp";
+
+const std::string global_str_turing_apikey = "807b97c5aab547b6ac5d0fbb24894e60";
+
+const std::string global_str_turing_keystore_sha1 = "50:F7:42:9F:89:98:FD:C8:13:16:72:45:44:53:6B:9A:E5:A9:A8:84";
+
+
